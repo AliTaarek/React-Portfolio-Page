@@ -1,0 +1,15 @@
+#mainwrapper{
+    background-color: rgb(61, 60, 60);
+}
+#skills-p{
+    font-family: Georgia, serif;
+    text-shadow: 4px 4px 8px #0b0b0b;
+}
+#skills-p2{
+    font-family: cursive;
+}
+
+hr{
+        height: 50px;
+        background: rgb(255, 255, 255)
+}
